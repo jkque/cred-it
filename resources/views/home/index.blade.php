@@ -40,11 +40,16 @@
 
 					<div class="row topmargin-sm clearfix">
 
-						{{-- <h2 class="center font-body bottommargin-lg">Frequently Asked Questions</h2> --}}
-						<h5>
-						<p class="center font-body bottommargin-lg">Cred.IT Inc. (Credible Information Technology Incorporated) is a start-up company and was founded by a diverse group of young and experienced professionals with corporate software development and marketing backgrounds.</p>
-						 <p class="center font-body bottommargin-lg">The mission of Cred.IT is to bring state-of-the-art Credit Card Software Management technologies to the Philippine Cooperative by <b>easy</b> and <b>reliable</b> platforms. </p>
-						 <p class="center font-body bottommargin-lg">Cred.IT is a company duly registered in the Philippine Securities and Exchange Commission, and based out of the University of the Philippines DOST TBI, in Cebu City, Philippines.</p></h5>
+						<h2 class="center font-body bottommargin-lg">Who we are?</h2>
+						<p class="center font-body bottommargin-lg" style="font-size: 20px">
+							Cred.IT Inc. (Credible Information Technology Incorporated) is a start-up company and was founded by a diverse group of young and experienced professionals with corporate software development and marketing backgrounds.
+						</p>
+						<p class="center font-body bottommargin-lg" style="font-size: 20px">
+						 	The mission of Cred.IT is to bring state-of-the-art Credit Card Software Management technologies to the Philippine Cooperative by <b>easy</b> and <b>reliable</b> platforms.
+						</p>
+						<p class="center font-body bottommargin-lg" style="font-size: 20px">
+							Cred.IT is a company duly registered in the Philippine Securities and Exchange Commission, and based out of the University of the Philippines DOST TBI, in Cebu City, Philippines.
+						</p>
 					</div>
 
 				</div>
