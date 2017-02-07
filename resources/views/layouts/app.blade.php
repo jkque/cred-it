@@ -222,7 +222,7 @@
 	============================================= -->
 	<script type="text/javascript" src="{{ asset('js/jquery.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('js/plugins.js') }}"></script>	
-	<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=YOUR_API_KEY"></script>
+	<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBjkcN1HT_vhe4qWBWurC3SWzpEV0Yh62g"></script>
 	<script type="text/javascript" src="{{ asset('js/jquery.gmap.js') }}"></script>
 
 	<!-- Footer Scripts
