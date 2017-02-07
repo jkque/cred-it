@@ -11,9 +11,9 @@
 					<div class="row clearfix">
 						<div class="col-md-12 col-sm-8">
 							<div class="emphasis-title">
-								<h1 class="font-body" style="font-size: 40px">Cred.it is the first tech company in the philippines that creates opportunities for unbanked Filipinos to have better lives through low-cost financial services.</h1>
+								<h1 class="font-body" style="font-size: 40px">Cred.It is the first tech company in the philippines that creates opportunities for unbanked Filipinos to have better lives through low-cost financial services.</h1>
 							</div>
-							<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light capitalize" style="border-radius: 23px;">LEARN MORE ABOUT CRED.IT</a>
+							<a href="#" data-scrollto="#section-about" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light capitalize" style="border-radius: 23px;">LEARN MORE ABOUT CRED.IT</a>
 						</div>
 					</div>
 				</div>
@@ -40,7 +40,7 @@
 
 					<div class="row topmargin-sm clearfix">
 
-						<h2 class="center font-body bottommargin-lg">Who we are?</h2>
+						<h2 class="center font-body bottommargin-lg">Who are we?</h2>
 						<p class="center font-body bottommargin-lg" style="font-size: 20px">
 							Cred.IT Inc. (Credible Information Technology Incorporated) is a start-up company and was founded by a diverse group of young and experienced professionals with corporate software development and marketing backgrounds.
 						</p>
