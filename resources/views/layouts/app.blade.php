@@ -58,7 +58,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="index.html" class="standard-logo" data-dark-logo="{{ asset('images/logo-dark.png') }}"><img src="{{ asset('images/logo.png') }}" alt="Cred.it Logo"></a>
+						<a href="index.html" class="standard-logo" data-dark-logo="{{ asset('images/logo-dark.png') }}"><img src="{{ asset('images/logo.png') }}" alt="Cred.It Logo"></a>
 						{{-- <a href="index.html" class="retina-logo" data-dark-logo="demos/app-landing/images/logo-dark@2x.png"><img src="demos/app-landing/images/logo@2x.png" alt="Canvas Logo"></a> --}}
 					</div><!-- #logo end -->
 
@@ -111,7 +111,7 @@
 							<div class="widget clearfix">
 								<div class="row clearfix">
 									<div class="col-md-8 bottommargin-sm clearfix" style="color:#888;">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, consequatur facere molestiae iusto atque.</p>
+							{{-- 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, consequatur facere molestiae iusto atque.</p> --}}
 
 										<a href="#" class="social-icon si-small si-borderless si-colored si-rounded si-facebook">
 											<i class="icon-facebook"></i>
@@ -230,6 +230,7 @@
 	<script type="text/javascript" src="js/functions.js"></script>
 
 	<script>
+	
 		jQuery(document).ready( function($){
 
 			function pricingSwitcher( elementCheck, elementParent, elementPricing ) {
