@@ -11,7 +11,7 @@
 					<div class="row clearfix">
 						<div class="col-md-12 col-sm-8">
 							<div class="emphasis-title">
-								<h1 class="font-body" style="font-size: 40px">Cred.It is the first tech company in the philippines that creates opportunities for unbanked Filipinos to have better lives through low-cost financial services.</h1>
+								<h1 class="font-body" style="font-size: 40px">Cred.IT is the first fintech company to serve unbanked Filipinos so they enjoy the power and benefit of low-cost financial services</h1>
 							</div>
 							<a href="#" data-scrollto="#section-about" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-white button-light capitalize" style="border-radius: 23px;">LEARN MORE ABOUT CRED.IT</a>
 						</div>
@@ -42,13 +42,13 @@
 
 						<h2 class="center font-body bottommargin-lg">Who are we?</h2>
 						<p class="lead center font-body bottommargin-lg" style="font-size: 20px">
-							Cred.IT Inc. (Credible Information Technology Incorporated) is a start-up company and was founded by a diverse group of young and experienced professionals with corporate software development and marketing backgrounds.
+							Cred.IT Inc (Credible Information Technology Incorporated) is a start-up company. Recently founded by a dynamic group of young experienced professionals trained in international and local, corporate, software development and marketing industries.
 						</p>
 						<p class="lead center font-body bottommargin-lg" style="font-size: 20px">
-						 	The mission of Cred.IT is to bring state-of-the-art Credit Card Software Management technologies to the Philippine Cooperative by <b>easy</b> and <b>reliable</b> platforms.
+						 	Cred.IT delivers state-of-the-art credit card software management technologies to improve the quality of life and business of member communities of Philippine cooperatives.
 						</p>
 						<p class="lead center font-body bottommargin-lg" style="font-size: 20px">
-							Cred.IT is a company duly registered in the Philippine Securities and Exchange Commission, and based out of the University of the Philippines DOST TBI, in Cebu City, Philippines.
+							Cred.IT is duly registered with the Philippine Securities and Exchange Commission. Its corporate office is located at the DOST TBI, University of the Philippines–Cebu, Philippines.
 						</p>
 					</div>
 
